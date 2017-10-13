@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{3139B173-84E5-43B5-890D-4D8DB61E3473}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SaveGoogleDocs/README.md">
+    <Files>
+      <File FileName="SaveGoogleDocs/Program.cs" Line="27" Column="57" />
+      <File FileName="SaveGoogleDocs/DriveAppV2Library.cs" Line="501" Column="6" />
+      <File FileName="SaveGoogleDocs/Credentials.json" Line="5" Column="1" />
+      <File FileName="SaveGoogleDocs/README.md" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.SaveGoogleDocs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
