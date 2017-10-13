@@ -15,8 +15,8 @@ namespace SaveGoogleDocs
     public static class GoogleDriveV2Library
     {
         public static DriveService Authentication(
-            string clientId = "1024267779669-p1a352ck3sq1v12opb2grgoo2dlb729d.apps.googleusercontent.com",
-            string clientSecret = "xD_Y5yMijTP2Zutw6E_AqxD0",
+            string clientId = "",
+            string clientSecret = "",
             string FileDataStoreIdentifier = "MathiasGredal.GoogleDrive.Auth.Store",
             string ApplicationName = "Save Google Docs")
         {

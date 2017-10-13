@@ -43,9 +43,6 @@ namespace SaveGoogleDocs
 
             GoogleDriveV2Library.CopyFolder(skoleFolder.Id, "Skole - Backup", service);
 
-            //GoogleDriveV2Library.CopyFileIntoFolder("1-lK6Skh2PQfNSl3836qWZOZaL8CpF6EpcsHoIVIkVi0", "0B8NEg58TrL9RMm04MFhmX1lnT1k", true, serviceV2);
-            //GoogleDriveV2Library.MoveFile("0B8NEg58TrL9ROUIxQW9WN2RlOWs", "0B8NEg58TrL9RMm04MFhmX1lnT1k", serviceV2);
-            //Console.WriteLine("Total Children is: " + GoogleDriveV2Library.NumChildsInFolder("0B8NEg58TrL9RMm04MFhmX1lnT1k", serviceV2));
             Console.WriteLine("Succesful");
         }
 
